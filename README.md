@@ -1,1 +1,2 @@
-## a simple test project for hello world!
+# helloworld
+just a simple project for hello world!
